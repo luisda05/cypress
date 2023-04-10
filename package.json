@@ -1,20 +1,21 @@
 {
-  "name": "1",
-  "version": "1.0.0",
-  "description": "Framework Testing Cypress",
-  "main": "index.js",
-  "scripts": {
-    "test": "Test"
-  },
-  "keywords": [
-    "e2e",
-    "automation",
-    "framework",
-    "cypress"
-  ],
-  "author": "Kiosaid",
-  "license": "ISC",
-  "devDependencies": {
-    "cypress": "^12.9.0"
-  }
+    "name": "1",
+    "version": "1.0.0",
+    "description": "Framework Testing Cypress",
+    "main": "index.js",
+    "scripts": {
+        "test": "Test",
+        "cypress:open": "cypress open"
+    },
+    "keywords": [
+        "e2e",
+        "automation",
+        "framework",
+        "cypress"
+    ],
+    "author": "Kiosaid",
+    "license": "ISC",
+    "devDependencies": {
+        "cypress": "^12.9.0"
+    }
 }
