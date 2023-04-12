@@ -16,6 +16,8 @@
     "author": "Kiosaid",
     "license": "ISC",
     "devDependencies": {
-        "cypress": "^12.9.0"
+        "@cypress/xpath": "^2.0.3",
+        "cypress": "^12.9.0",
+        "cypress-iframe": "^1.0.1"
     }
 }
